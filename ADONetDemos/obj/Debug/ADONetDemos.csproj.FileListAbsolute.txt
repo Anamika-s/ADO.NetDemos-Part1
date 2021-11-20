@@ -1,0 +1,7 @@
+C:\Users\adminvm.adminvm\source\repos\ADONetDemos\ADONetDemos\bin\Debug\ADONetDemos.exe.config
+C:\Users\adminvm.adminvm\source\repos\ADONetDemos\ADONetDemos\bin\Debug\ADONetDemos.exe
+C:\Users\adminvm.adminvm\source\repos\ADONetDemos\ADONetDemos\bin\Debug\ADONetDemos.pdb
+C:\Users\adminvm.adminvm\source\repos\ADONetDemos\ADONetDemos\obj\Debug\ADONetDemos.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\ADONetDemos\ADONetDemos\obj\Debug\ADONetDemos.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\ADONetDemos\ADONetDemos\obj\Debug\ADONetDemos.exe
+C:\Users\adminvm.adminvm\source\repos\ADONetDemos\ADONetDemos\obj\Debug\ADONetDemos.pdb
